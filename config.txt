@@ -1,0 +1,2 @@
+admin_usr: root
+admin_pwd: mz314159*
